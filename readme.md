@@ -1,0 +1,1 @@
+api and example is for singleton Object Creation
